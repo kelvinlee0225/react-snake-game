@@ -5,7 +5,7 @@ export const SnakeBody = ({ dots }: SnakeBodyProps) => {
   return (
     <>
       {dots.map((dot) => (
-        <SnakeDots style={{ top: `${dot[0]}%`, left: `${dot[1]}%` }} />
+        <SnakeDots dot={dot} />
       ))}
     </>
   );
