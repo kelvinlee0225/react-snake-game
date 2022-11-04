@@ -7,3 +7,11 @@ export const GameArena = styled.div`
   border: 2px solid #000;
   align-self: center;
 `;
+
+export const Container = styled.div`
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+`;

@@ -1,7 +1,11 @@
-import { GameArena } from "./app-style";
+import { GameArena, Container } from "./app-style";
 
 function App() {
-  return <GameArena></GameArena>;
+  return (
+    <Container>
+      <GameArena></GameArena>
+    </Container>
+  );
 }
 
 export default App;
