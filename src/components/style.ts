@@ -13,6 +13,7 @@ export const SnakeDots = styled.div<SnakeDtoProps>`
   left: ${({ dot }) => {
     return `${dot[1]}`;
   }}%;
+  z-index: 2;
 `;
 
 export const SnakeFood = styled.div<FoodProps>`
@@ -27,4 +28,5 @@ export const SnakeFood = styled.div<FoodProps>`
   left: ${({ foodPosition }) => {
     return `${foodPosition[1]}`;
   }}%;
+  z-index: 1;
 `;
