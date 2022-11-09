@@ -88,8 +88,10 @@ function App() {
     const head = dots[dots.length - 1];
     const snakeFood = food;
     if (head[0] === snakeFood[0] && head[1] === snakeFood[1]) {
+      const newSnake = [...dots];
+      newSnake.unshift([dots[0][0], dots[0][1]]);
+      setDots(newSnake);
       setFood(getRandomCoordinates());
-      dots.unshift([]);
       increaseSpeed();
     }
   };
