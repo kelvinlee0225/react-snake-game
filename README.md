@@ -17,3 +17,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## Screenshots and Videos
+
+![image](https://user-images.githubusercontent.com/52004258/201402816-9d156010-cb92-4d07-96e4-968e76d95a26.png)
+
+![image](https://user-images.githubusercontent.com/52004258/201403048-445bbd4e-180f-451f-b7cf-2cb62b57d2ea.png)
+
+https://user-images.githubusercontent.com/52004258/201408712-5c79770c-7911-4def-8d08-907580d986fc.mp4
+
+
