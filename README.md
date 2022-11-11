@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This is a classic snake game made with React Js in TypeScript and Styled Components (https://styled-components.com/). 
+This is a classic snake game made with React Js in TypeScript and [Styled Components](https://styled-components.com/). 
 
 ## Available Scripts
 
