@@ -15,6 +15,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+
 ## Screenshots and Gameplay
 
 ![image](https://user-images.githubusercontent.com/52004258/201402816-9d156010-cb92-4d07-96e4-968e76d95a26.png)
